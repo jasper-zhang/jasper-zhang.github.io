@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://opscoser.info/friends/index.html</loc>
+    
+    <lastmod>2019-12-19T13:57:19.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://opscoser.info/contact/index.html</loc>
+    
+    <lastmod>2019-12-19T13:53:51.351Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://opscoser.info/about/index.html</loc>
     
-    <lastmod>2019-12-19T13:43:28.973Z</lastmod>
+    <lastmod>2019-12-19T13:51:04.846Z</lastmod>
     
   </url>
   
@@ -19,20 +33,6 @@
     <loc>https://opscoser.info/tags/index.html</loc>
     
     <lastmod>2019-12-19T12:39:10.330Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://opscoser.info/friends/index.html</loc>
-    
-    <lastmod>2019-12-19T12:39:10.330Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://opscoser.info/contact/index.html</loc>
-    
-    <lastmod>2019-12-19T12:39:10.329Z</lastmod>
     
   </url>
   
